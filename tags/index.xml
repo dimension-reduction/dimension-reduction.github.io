@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on GLBIO 2019 | Higher Understanding with Lower Dimensions</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on GLBIO 2019 | Higher Understanding with Lower Dimensions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Baur, Lee, Liu, Ward</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Academic</title>
+      <link>/tags/academic/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autoencoder</title>
+      <link>/tags/autoencoder/</link>
+      <pubDate>Sat, 30 Dec 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/tags/autoencoder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diffusion Map</title>
+      <link>/tags/diffusion-map/</link>
+      <pubDate>Tue, 30 May 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/diffusion-map/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matrix Factorization</title>
+      <link>/tags/matrix-factorization/</link>
+      <pubDate>Tue, 30 May 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/matrix-factorization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PCA</title>
+      <link>/tags/pca/</link>
+      <pubDate>Sat, 30 Dec 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/tags/pca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Markdown</title>
+      <link>/tags/r-markdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/tags/r-markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plot</title>
+      <link>/tags/plot/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/tags/plot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>regression</title>
+      <link>/tags/regression/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>t-SNE &amp; UMAP</title>
+      <link>/tags/t-sne-umap/</link>
+      <pubDate>Tue, 30 May 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/t-sne-umap/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

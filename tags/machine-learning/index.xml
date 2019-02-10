@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning on GLBIO 2019 | Higher Understanding with Lower Dimensions</title>
+    <link>/tags/machine-learning/</link>
+    <description>Recent content in Machine Learning on GLBIO 2019 | Higher Understanding with Lower Dimensions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 30 Dec 2017 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Greedy approach to maximizing gradient diversity for minibatch SGD </title>
+      <link>/project/novembre-genes-2008/</link>
+      <pubDate>Sat, 30 Dec 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/project/novembre-genes-2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

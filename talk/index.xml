@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks &amp; Presentations on GLBIO 2019 | Higher Understanding with Lower Dimensions</title>
+    <link>/talk/</link>
+    <description>Recent content in Talks &amp; Presentations on GLBIO 2019 | Higher Understanding with Lower Dimensions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Baur, Lee, Liu, Ward</copyright>
+    <lastBuildDate>Sat, 03 Nov 2018 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GRINCH: Discovering structural units of chromosomes with graph-regularized matrix factorization</title>
+      <link>/talk/2018recomb/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2018recomb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A graph-regularized non-negative matrix factorization method to discover organizational units of chromosomes</title>
+      <link>/talk/2018ismb/</link>
+      <pubDate>Sat, 07 Jul 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/talk/2018ismb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>It takes a village to raise a dashboard</title>
+      <link>/talk/2018qonnections/</link>
+      <pubDate>Thu, 26 Apr 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/talk/2018qonnections/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-service reporting for quantitative provider practice evaluation</title>
+      <link>/talk/2018asa2/</link>
+      <pubDate>Sun, 28 Jan 2018 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2018asa2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OR KPI self-service reporting</title>
+      <link>/talk/2018asa/</link>
+      <pubDate>Fri, 26 Jan 2018 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/2018asa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
