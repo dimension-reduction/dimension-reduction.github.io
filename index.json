@@ -1,27 +1,5 @@
 [
   {
-    "authors": [
-      "Da-Inn Lee",
-      "Sushmita Roy"
-    ],
-    "categories": null,
-    "content": "",
-    "date": 1544421600,
-    "expirydate": -62135596800,
-    "kind": "page",
-    "lang": "en",
-    "lastmod": 1544421600,
-    "objectID": "ca509a6054b8b010ee5e6ca3de7b0784",
-    "permalink": "/talk/2018recomb/",
-    "publishdate": "2018-12-10T00:00:00-06:00",
-    "relpermalink": "/talk/2018recomb/",
-    "section": "talk",
-    "summary": "Three dimensional organization of the genome is emerging as an important determinant of cell-type specific expression and is implicated in many diseases, including cancer (Bouwman \u0026 de Laat 2015). Hi-C is a type of high-throughput chromosome conformation capture (3C) assay which can be used to study the three-dimensional organization of chromosomes (Lieberman-Aiden et al. 2009). Analysis of Hi-C data can reconstruct the building blocks that give rise to or result from the organizational principles of the genome: topologically associating domains (TADs), transcriptionally active compartments, chromatin loops, chromosomal territories (Gibcus \u0026 Dekker 2013). Recent studies comparing TAD-finding methods (Forcato et al. 2017, Dali \u0026 Blanchette 2017) found the methods to vary significantly in their replicability and stability across sequence depth, sparsity, and resolution of the input data, suggesting the need for more robust methods. Here we present GRiNCH, an approach based on Non-Negative Matrix Factorization (NMF) to identify organizational units of chromosomes from Hi-C data. NMF is a powerful dimensionality-reduction technique that can recover low-dimensional representations of images, texts, and biological data (Lee \u0026 Seung 2000). GRiNCH extends the NMF framework by using a graph regularization term that (Cai et al. 2011) encourages nearby genomic regions in similar chromatin state or with similar insulator binding pattern to converge to a similar low-dimensional state. Our results show that GRiNCH can recover clusters with TAD-like properties whose boundaries show a significant association with the presence of CTCF binding. Compared to existing TAD-finding methods, GRiNCH clusters are more stable to sparse and low-depth Hi-C datasets. Finally, through a matrix completion process, GRiNCH can impute missing interaction counts and offer a smoothed Hi-C matrix comparable in quality to smoothing process employed by methods like HiCRep (Yang et al. 2017). Taken together, GRiNCH offers a promising approach to mining biologically meaningful structural domains of the genome.",
-    "tags": [],
-    "title": "GRINCH: Discovering structural units of chromosomes with graph-regularized matrix factorization",
-    "type": "talk"
-  },
-  {
     "authors": null,
     "categories": null,
     "content": " In this tutorial, I\u0026rsquo;ll share my top 10 tips for getting started with Academic:\nTip 1 \u0026hellip;\nTip 2 \u0026hellip;\n",
@@ -39,96 +17,6 @@
     "tags": null,
     "title": "Example Page",
     "type": "docs"
-  },
-  {
-    "authors": [
-      "Da-Inn Lee",
-      "Sushmita Roy"
-    ],
-    "categories": null,
-    "content": "",
-    "date": 1530939600,
-    "expirydate": -62135596800,
-    "kind": "page",
-    "lang": "en",
-    "lastmod": 1530939600,
-    "objectID": "3b92e226852ae0dc74fca9eb7a3b8e95",
-    "permalink": "/talk/2018ismb/",
-    "publishdate": "2018-07-07T00:00:00-05:00",
-    "relpermalink": "/talk/2018ismb/",
-    "section": "talk",
-    "summary": "Three dimensional organization of the genome is emerging as an important determinant of cell-type specific expression and is implicated in many diseases, including cancer. Hi-C is a type of high-throughput chromosome conformation capture (3C) assay used to study three-dimensional organization of the genome. Analysis of Hi-C data has shown that the genome is organized into higher-order organizational units such as compartments and topologically associated domains (TADs). We present a non-negative matrix factorization approach, commonly used for clustering and dimensionality reduction, to infer clusters of regions from Hi-C data. To preserve the spatial dependency of Hi-C data (i.e. closer regions interact more with each other), we impose regularization on NMF with the nearest-neighbor graph of each genomic loci. Our results show that NMF and graph-regularized NMF are both important to discover clusters that exhibit a significant association with the presence of CTCF binding at the cluster boundaries and are robust to simulated sparsity and lower sequence depth.",
-    "tags": [],
-    "title": "A graph-regularized non-negative matrix factorization method to discover organizational units of chromosomes",
-    "type": "talk"
-  },
-  {
-    "authors": [
-      "Da-Inn Erika Lee",
-      "Jeremy Kofoot"
-    ],
-    "categories": null,
-    "content": "",
-    "date": 1524718800,
-    "expirydate": -62135596800,
-    "kind": "page",
-    "lang": "en",
-    "lastmod": 1524718800,
-    "objectID": "fb99143bca0ef192948279ebea491e7c",
-    "permalink": "/talk/2018qonnections/",
-    "publishdate": "2018-04-26T00:00:00-05:00",
-    "relpermalink": "/talk/2018qonnections/",
-    "section": "talk",
-    "summary": "",
-    "tags": [],
-    "title": "It takes a village to raise a dashboard",
-    "type": "talk"
-  },
-  {
-    "authors": [
-      "Erika Da-Inn Lee",
-      "Aimee M Becker",
-      "Lianne L Stephenson",
-      "Christopher R Turner"
-    ],
-    "categories": null,
-    "content": "",
-    "date": 1517119200,
-    "expirydate": -62135596800,
-    "kind": "page",
-    "lang": "en",
-    "lastmod": 1517119200,
-    "objectID": "079806fc12bc5ac08ee3d2e9d708b327",
-    "permalink": "/talk/2018asa2/",
-    "publishdate": "2018-01-28T00:00:00-06:00",
-    "relpermalink": "/talk/2018asa2/",
-    "section": "talk",
-    "summary": "A critical component of quality improvement is equipping providers with meaningful information regarding their practices. This requires not only obtaining accurate data but also presenting the data in an intuitive and efficient manner which allows providers to benchmark themselves to their peers. UW Health Department of Anesthesiology tracks a set of quantitative metrics in operational efficiency and clinical excellence that are also included in providers’ Ongoing Provider Practice Evaluation (OPPE).  We present our collaborative effort in creating a one-stop solution to consolidate these metrics into an automated one-stop-shop reporting interface which can be accessed by faculty, residents, or anesthetist at any time.  We discuss the major access barrier to data that motivated this effort and our objective. The implementation steps and user experience designed to meet those goals are demonstrated. We discuss the current use cases of the application in the OPPE process. Finally, we consider the application’s future role in facilitating the ongoing conversation and interventions for anesthesia quality improvement.",
-    "tags": [],
-    "title": "Self-service reporting for quantitative provider practice evaluation",
-    "type": "talk"
-  },
-  {
-    "authors": [
-      "Erika Da-Inn Lee",
-      "Christopher R Turner"
-    ],
-    "categories": null,
-    "content": "",
-    "date": 1516946400,
-    "expirydate": -62135596800,
-    "kind": "page",
-    "lang": "en",
-    "lastmod": 1516946400,
-    "objectID": "15fb02f729fd7571d37550b65ccced2a",
-    "permalink": "/talk/2018asa/",
-    "publishdate": "2018-01-26T00:00:00-06:00",
-    "relpermalink": "/talk/2018asa/",
-    "section": "talk",
-    "summary": "With operating rooms being one of the top revenue sources in the acute-care setting, it is crucial to monitor key performance indicators (KPIs) such as case volume, room turnover, and block utilization in order to maximize efficiency. Putting such data in the hands of perioperative leaders empowers them to pivot quickly based on up-to-date operational data. We present our collaborative effort in creating a one-stop solution for OR KPIs as a case study in increasing self-service reporting capacity while lowering technical debt to meet a large academic organization’s data demand. We discuss the major access barriers to data that motivated this effort and our objectives. The implementation steps and user experience designed to meet those goals are demonstrated. We quantify the success in building a self-service data consumer community as well as in lowering  technical overhead and debt. Finally, we look to the future for meeting business challenges and opportunities for our organization.",
-    "tags": [],
-    "title": "OR KPI self-service reporting",
-    "type": "talk"
   },
   {
     "authors": null,
