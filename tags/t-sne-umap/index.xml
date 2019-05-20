@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Baur, Lee, Liu, Ward</copyright>
-    <lastBuildDate>Tue, 30 May 2017 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 30 Dec 2017 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="/tags/t-sne-umap/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to Use t-SNE Effectively</title>
+      <link>/project/wattenberg-how-2016/</link>
+      <pubDate>Sat, 30 Dec 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/project/wattenberg-how-2016/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dimensionality reduction for visualizing single-cell data using UMAP</title>

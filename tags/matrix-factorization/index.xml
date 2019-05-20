@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Baur, Lee, Liu, Ward</copyright>
-    <lastBuildDate>Tue, 30 May 2017 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 30 Dec 2017 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="/tags/matrix-factorization/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Gene prioritization using Bayesian matrix factorization with genomic and phenotypic side information</title>
+      <link>/project/zakeri-gene-2018/</link>
+      <pubDate>Sat, 30 Dec 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/project/zakeri-gene-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metagenes and molecular pattern discovery using matrix factorization</title>
+      <link>/project/brunet-metagenes-2004/</link>
+      <pubDate>Sat, 30 Dec 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/project/brunet-metagenes-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enter the Matrix: Factorization Uncovers Knowledge from Omics</title>
+      <link>/project/stein-obrien-enter-2018/</link>
+      <pubDate>Tue, 30 May 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/project/stein-obrien-enter-2018/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Multi-Omics Factor Analysis - a framework for unsupervised integration of multi-omics data sets</title>

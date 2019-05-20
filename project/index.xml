@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>Gene prioritization using Bayesian matrix factorization with genomic and phenotypic side information</title>
+      <link>/project/zakeri-gene-2018/</link>
+      <pubDate>Sat, 30 Dec 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/project/zakeri-gene-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Genes mirror geography within Europe</title>
       <link>/project/novembre-genes-2008/</link>
       <pubDate>Sat, 30 Dec 2017 00:00:00 -0600</pubDate>
@@ -22,11 +31,38 @@
     </item>
     
     <item>
+      <title>How to Use t-SNE Effectively</title>
+      <link>/project/wattenberg-how-2016/</link>
+      <pubDate>Sat, 30 Dec 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/project/wattenberg-how-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metagenes and molecular pattern discovery using matrix factorization</title>
+      <link>/project/brunet-metagenes-2004/</link>
+      <pubDate>Sat, 30 Dec 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/project/brunet-metagenes-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Reducing the dimensionality of data with neural networks</title>
       <link>/project/hinton-reducing-2006/</link>
       <pubDate>Sat, 30 Dec 2017 00:00:00 -0600</pubDate>
       
       <guid>/project/hinton-reducing-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spectral clustering using Nyström approximation for the accurate identification of cancer molecular subtypes</title>
+      <link>/project/shi-spectral-2017/</link>
+      <pubDate>Sat, 30 Dec 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/project/shi-spectral-2017/</guid>
       <description></description>
     </item>
     
@@ -45,6 +81,15 @@
       <pubDate>Tue, 30 May 2017 00:00:00 -0500</pubDate>
       
       <guid>/project/becht-dim-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enter the Matrix: Factorization Uncovers Knowledge from Omics</title>
+      <link>/project/stein-obrien-enter-2018/</link>
+      <pubDate>Tue, 30 May 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/project/stein-obrien-enter-2018/</guid>
       <description></description>
     </item>
     

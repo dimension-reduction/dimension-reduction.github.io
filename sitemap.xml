@@ -36,6 +36,14 @@
     
     <url>
     
+      <loc>/project/zakeri-gene-2018/</loc>
+      <lastmod>2017-12-30T00:00:00-06:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/project/novembre-genes-2008/</loc>
       <lastmod>2017-12-30T00:00:00-06:00</lastmod>
     </url>
@@ -44,7 +52,31 @@
     
     <url>
     
+      <loc>/project/wattenberg-how-2016/</loc>
+      <lastmod>2017-12-30T00:00:00-06:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/brunet-metagenes-2004/</loc>
+      <lastmod>2017-12-30T00:00:00-06:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/project/hinton-reducing-2006/</loc>
+      <lastmod>2017-12-30T00:00:00-06:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/shi-spectral-2017/</loc>
       <lastmod>2017-12-30T00:00:00-06:00</lastmod>
     </url>
     
@@ -61,6 +93,14 @@
     <url>
     
       <loc>/project/becht-dim-2018/</loc>
+      <lastmod>2017-05-30T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/stein-obrien-enter-2018/</loc>
       <lastmod>2017-05-30T00:00:00-05:00</lastmod>
     </url>
     
@@ -169,7 +209,7 @@
     <url>
     
       <loc>/tags/diffusion-map/</loc>
-      <lastmod>2017-05-30T00:00:00-05:00</lastmod>
+      <lastmod>2017-12-30T00:00:00-06:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -187,7 +227,7 @@
     <url>
     
       <loc>/tags/matrix-factorization/</loc>
-      <lastmod>2017-05-30T00:00:00-05:00</lastmod>
+      <lastmod>2017-12-30T00:00:00-06:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -283,7 +323,7 @@
     <url>
     
       <loc>/tags/t-sne-umap/</loc>
-      <lastmod>2017-05-30T00:00:00-05:00</lastmod>
+      <lastmod>2017-12-30T00:00:00-06:00</lastmod>
       <priority>0</priority>
     </url>
     

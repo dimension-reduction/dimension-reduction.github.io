@@ -27,6 +27,27 @@
     "kind": "page",
     "lang": "en",
     "lastmod": 1514613600,
+    "objectID": "686553684dc072338678cd523e881350",
+    "permalink": "/project/zakeri-gene-2018/",
+    "publishdate": "2017-12-30T00:00:00-06:00",
+    "relpermalink": "/project/zakeri-gene-2018/",
+    "section": "project",
+    "summary": "Zakeri et al. Bioinformatics. 2018",
+    "tags": [
+      "Matrix Factorization"
+    ],
+    "title": "Gene prioritization using Bayesian matrix factorization with genomic and phenotypic side information",
+    "type": "project"
+  },
+  {
+    "authors": null,
+    "categories": null,
+    "content": "",
+    "date": 1514613600,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1514613600,
     "objectID": "d14eb0d5f0ab784d178836b80eb33ec8",
     "permalink": "/project/novembre-genes-2008/",
     "publishdate": "2017-12-30T00:00:00-06:00",
@@ -48,6 +69,48 @@
     "kind": "page",
     "lang": "en",
     "lastmod": 1514613600,
+    "objectID": "71896da962a0d2c25e75a49b1ebadee8",
+    "permalink": "/project/wattenberg-how-2016/",
+    "publishdate": "2017-12-30T00:00:00-06:00",
+    "relpermalink": "/project/wattenberg-how-2016/",
+    "section": "project",
+    "summary": "Wattenberg et al. Distill. 2016",
+    "tags": [
+      "t-SNE \u0026 UMAP"
+    ],
+    "title": "How to Use t-SNE Effectively",
+    "type": "project"
+  },
+  {
+    "authors": null,
+    "categories": null,
+    "content": "",
+    "date": 1514613600,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1514613600,
+    "objectID": "099ec48174af92272fc0bf127ee2c738",
+    "permalink": "/project/brunet-metagenes-2004/",
+    "publishdate": "2017-12-30T00:00:00-06:00",
+    "relpermalink": "/project/brunet-metagenes-2004/",
+    "section": "project",
+    "summary": "Brunet et al. P Natl Acad Sci Usa. 2004",
+    "tags": [
+      "Matrix Factorization"
+    ],
+    "title": "Metagenes and molecular pattern discovery using matrix factorization",
+    "type": "project"
+  },
+  {
+    "authors": null,
+    "categories": null,
+    "content": "",
+    "date": 1514613600,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1514613600,
     "objectID": "d8ec771b86c3c4443f64eb56e0d1fa26",
     "permalink": "/project/hinton-reducing-2006/",
     "publishdate": "2017-12-30T00:00:00-06:00",
@@ -58,6 +121,27 @@
       "Autoencoder"
     ],
     "title": "Reducing the dimensionality of data with neural networks",
+    "type": "project"
+  },
+  {
+    "authors": null,
+    "categories": null,
+    "content": "",
+    "date": 1514613600,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1514613600,
+    "objectID": "a928cefeec6ce175886ecc6e76673c3b",
+    "permalink": "/project/shi-spectral-2017/",
+    "publishdate": "2017-12-30T00:00:00-06:00",
+    "relpermalink": "/project/shi-spectral-2017/",
+    "section": "project",
+    "summary": "Shi \u0026 Xu. Sci Rep-UK. 2017",
+    "tags": [
+      "Diffusion Map"
+    ],
+    "title": "Spectral clustering using Nyström approximation for the accurate identification of cancer molecular subtypes",
     "type": "project"
   },
   {
@@ -100,6 +184,28 @@
       "t-SNE \u0026 UMAP"
     ],
     "title": "Dimensionality reduction for visualizing single-cell data using UMAP",
+    "type": "project"
+  },
+  {
+    "authors": null,
+    "categories": null,
+    "content": "",
+    "date": 1496120400,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1496120400,
+    "objectID": "454a1bc6a4f001a83fedcd9e9a0d28ca",
+    "permalink": "/project/stein-obrien-enter-2018/",
+    "publishdate": "2017-05-30T00:00:00-05:00",
+    "relpermalink": "/project/stein-obrien-enter-2018/",
+    "section": "project",
+    "summary": "Stien-O'Brien et al. Trends Genet. 2018",
+    "tags": [
+      "Matrix Factorization",
+      "PCA"
+    ],
+    "title": "Enter the Matrix: Factorization Uncovers Knowledge from Omics",
     "type": "project"
   },
   {
